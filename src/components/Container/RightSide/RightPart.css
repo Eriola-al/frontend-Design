@@ -1,0 +1,9 @@
+.container{
+    margin:  50px 5px 5px 20px;
+}
+
+.category-name{
+    font-weight: 800;
+     font-size: 22px ;
+     color:rgb(87, 85, 85);
+}

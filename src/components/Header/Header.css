@@ -1,0 +1,47 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0;
+  background-color: black;
+}
+
+.logo-name {
+  color: white;
+  font-family: arial;
+  font-weight: bolder;
+  text-align: left;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-left: 55px;
+}
+.menu {
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+}
+.sign-up {
+  border-radius: 5px;
+  border: none;
+  font-size: 15px;
+  width: 80px;
+  height: 32px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.login {
+  border-radius: 5px;
+  background-color: transparent;
+  font-size: 16px;
+  color: white;
+  border: none;
+  width: 80px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.ant-layout-header{
+  line-height: 0px;
+  padding: 0px;
+  background-color: black;
+}
