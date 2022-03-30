@@ -42,6 +42,13 @@
     line-height: 27px;
 }
 
+.titleRight {
+    font-family: 'Arial Black';
+    font-weight: bolder;
+    font-size: 15px;
+    line-height: 27px;
+}
+
 .subInfo {
     display: flex;
     gap: 5px;

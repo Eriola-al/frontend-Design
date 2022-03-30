@@ -19,7 +19,7 @@ const Article = ({ article, small }) => {
                 <p className="label">{article.labelTag}</p>
                 {!article.subTitle ?
                     (<p className='titleLeft'>{article.title}</p>) : //to do with attaching aditional props
-                    (<p>{article.subTitle}</p>)}
+                    (<p className="titleRight">{article.subTitle}</p>)}
                 <div className='subInfo'>
                     <img className='srcLogo' src={article.sourceLogo} />
                     <span className='srcName'>{article.sourceName}</span>

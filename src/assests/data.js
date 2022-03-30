@@ -289,7 +289,7 @@ const data = [
     ],
   },
   {
-    category: "Enterteiment",
+    category: "Entertainment",
     categoryTitle: "In the spotlight",
     list: [
       {

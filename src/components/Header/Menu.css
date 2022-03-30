@@ -15,10 +15,10 @@
   font-weight: 700;
 }
 
-.topnav a:hover {
+a, a:hover {
   color: white;
 }
-.topnav a.active {
+a, a.active {
   color: white;
 }
 
